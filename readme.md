@@ -8,11 +8,8 @@
 
 ## Descrição do Repositorio (Description of the Repository)
 
-<p align="justify"> Programas em MySQL </p>
-<p align="justify"> MySQL Programs </p>
+Programas em MySQL (MySQL Programs)
 
-## Sumário (Summary)
+## Sumário dos Programas (Summary of programs)
 
-### 1º Programa (1º Program): VIEWS (20/05/2020)
-
-> Link: https://github.com/iurygdeoliveira/MySQL/tree/master/Views
+- VIEWS: https://github.com/iurygdeoliveira/MySQL/tree/master/Views (20/05/2020)
