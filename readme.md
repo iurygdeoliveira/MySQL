@@ -12,6 +12,8 @@ Programas em MySQL (MySQL Programs)
 
 ## Sumário dos Programas (Summary of programs)
 
+- FUNCTIONS: https://github.com/iurygdeoliveira/MySQL/tree/master/Functions (27/05/2020)
+
 - STORED PROCEDURE: https://github.com/iurygdeoliveira/MySQL/tree/master/Stored%20Procedure (22/05/2020)
 
 - VIEWS: https://github.com/iurygdeoliveira/MySQL/tree/master/Views (20/05/2020)

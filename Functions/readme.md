@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/MySQL/blob/master/Stored%20Procedure/Capa.jpg">
+  <img src="https://github.com/iurygdeoliveira/MySQL/blob/master/Functions/Capa.jpg">
 </p>
 
 ## Desenvolvedor (Developer):
@@ -16,16 +16,12 @@
 
 #### Descrição (Description)
 
-> Descrição do Programa: Demonstra a utilização de Stored Procedure em Banco de Dados
+> Descrição do Programa: Demonstra a Programação de Functions em Banco de Dados
 
-> Program Description: Demonstrates the use of Stored Procedure in Database
+> Program Description: Demonstrates Programming Functions in Database
 
 #### Demonstração em Vídeo (Video Demo)
 
-> Link para vídeo demonstrativo (Parte 1): https://youtu.be/5og5olTLhyM
+> Link para vídeo demonstrativo (Parte 1): https://youtu.be/onSttUEr-bE
 
-> Demo video link (Parte 1): https://youtu.be/5og5olTLhyM
-
-> Link para vídeo demonstrativo (Parte 2): https://youtu.be/9g9520PMqcM
-
-> Demo video link (Parte 2): https://youtu.be/9g9520PMqcM
+> Demo video link (Parte 1): https://youtu.be/onSttUEr-bE
