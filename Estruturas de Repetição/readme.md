@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iurygdeoliveira/MySQL/blob/master/Functions/Capa.jpg">
+  <img src="https://github.com/iurygdeoliveira/MySQL/blob/master/Estruturas%20de%20Repeti%C3%A7%C3%A3o/Capa.jpg">
 </p>
 
 ## Desenvolvedor (Developer):
