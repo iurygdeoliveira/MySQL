@@ -12,6 +12,8 @@ Programas em MySQL (MySQL Programs)
 
 ## Sumário dos Programas (Summary of programs)
 
+- TRATAMENTO DE EXCEÇÕES: (30/06/2020)
+
 - ESTRUTURAS DE REPETIÇÃO: https://github.com/iurygdeoliveira/MySQL/tree/master/Estruturas%20de%20Repeti%C3%A7%C3%A3o (30/05/2020)
 
 - FUNCTIONS: https://github.com/iurygdeoliveira/MySQL/tree/master/Functions (27/05/2020)
