@@ -12,6 +12,8 @@ Programas em MySQL (MySQL Programs)
 
 ## Sumário dos Programas (Summary of programs)
 
+- LINGUAGEM DCL: https://github.com/iurygdeoliveira/MySQL/tree/master/Linguagem%20DCL (08/08/2020)
+
 - FULL TEXT SEARCH: https://github.com/iurygdeoliveira/MySQL/tree/master/Full%20Text%20Search (07/08/2020)
 
 - TRIGGERS: https://github.com/iurygdeoliveira/MySQL/tree/master/Triggers (05/08/2020)
