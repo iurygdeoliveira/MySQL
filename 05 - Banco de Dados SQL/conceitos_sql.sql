@@ -1,6 +1,6 @@
 # 5 - BANCO DE DADOS 
 
-# 5.3 - ABSTRAÇÃO E PROJEÇÃO
+# 5.1 - ABSTRAÇÃO E PROJEÇÃO
 
 # 5.1.1 - Compreender o processo "humano" e transcrever de maneira lógica e organizada
 # 5.1.2 - Organizar, segmentar, analisar todas as informações necessárias e exportar de
@@ -49,37 +49,3 @@
 # 5.3.4 - Durabilidade ou Persistência: Toda informação escrita no repositório só pode ser
 		-- desfeita/refeita por outra transação. Isso significa que não pode ser suscetível a
 		-- erros de hardware por exemplo
-
-# 5.4 - FUNCIONAMENTO BÁSICO
-
-# 5.4.1 - Banco de Dados: Conjunto de Tabelas
-# 5.4.2 - Tabelas (Entidade): Conjunto de campos com linhas
-# 5.4.3 - Campos (Atributos): Responsável por armazenar uma informação. 
-		-- E este possui parâmetros e valores para configuração
-# 5.4.4 - Linhas (Registros): Uma informação pertinente ao campo da tabela
-# 5.4.5 - Parâmetros e valores: Pertinentes aos campos/atributos
-		-- Tipo; Númerico, texto, data/hora
-        -- Permite nulo ?
-        -- Auto Incremento ?
-
-# 4.5 - SITE OFICIAL E DOCUMENTAÇÃO
- -- https://github.com/mysql/mysql-server
- -- https://dev.mysql.com/doc/
-		
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
