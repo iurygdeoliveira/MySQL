@@ -48,7 +48,12 @@
 	   -- YEAR(2) onde os valores aceitos são de 70 até 69.
 	   -- YEAR(4) onde os valores são aceitos de 1901 até 2155 e 0000.
 
+o YEAR [(4)]: O ano, representado por 4 dígitos. É exibido no formato ‘AAAA’ e pode ter valores entre 1901 e 2155, além do valor 0000.
+Em versões mais antigas do MySQL ainda tínhamos a opção de YEAR(2), como vocês podem imaginar ele era exibido no formato ‘AA’.
 
+As 1- or 2-digit strings in the range '0' to '99'. MySQL converts values in the ranges '0' to '69' and '70' to '99' to YEAR values in the ranges 2000 to 2069 and 1970 to 1999.
+As 1- or 2-digit numbers in the range 0 to 99. MySQL converts values in the ranges 1 to 69 and 70 to 99 to YEAR values in the ranges 2001 to 2069 and 1970 to 1999.
+(FONTE: https://dev.mysql.com/doc/refman/8.0/en/year.html)
 	   
 
 
