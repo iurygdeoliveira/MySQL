@@ -21,7 +21,7 @@
 	  -- AUTO_INCREMENT, que embora seja um campo inteiro, possuir propriedades particulares.
 
 
-https://raw.githubusercontent.com/adennyfernandesphp/MySQL/master/07_Tipos_de_Dados/Tipos%20Primitivos%20MySQL-Banco%20de%20Dados.jpg
+
 	   
 
 
