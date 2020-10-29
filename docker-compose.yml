@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+    mysql:
+        image: mysql:latest
+        environment:
+            - MYSQL_USER=root
+            - MYSQL_ROOT_PASSWORD=root
+            - MYSQL_DATABASE=TADS
+        ports:
+            - 3306:3306
+        volumes:
+            - ./docker/mysql/:/var/lib/mysql
+        networks:
+            - rede_docker
+networks:
+    rede_docker:
+        driver: bridge
