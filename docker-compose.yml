@@ -12,7 +12,7 @@ services:
         volumes:
             - ./docker/mysql/:/var/lib/mysql
         networks:
-            - rede_docker
+            - rede_docker_mysql
 networks:
-    rede_docker:
+    rede_docker_mysql:
         driver: bridge
